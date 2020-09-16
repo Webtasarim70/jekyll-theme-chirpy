@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: Etiketler
 type: tags
 # All the Tags of posts.
 # v2.0

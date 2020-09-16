@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Kategoriler
 type: categories
 # All the Categories of posts
 # v2.0
