@@ -7,11 +7,12 @@ comments: true
 tags: [KDV iade,  KDV iadesi,  e-YMM raporu,  e-YMM,  YMM rapor Gönderimi]
 
 ---
-internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar toplamaya çalıştım. 
+internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar toplamaya çalıştım.
 
 ![e ymm logoso](https://intvrg.gib.gov.tr/ymmside/sf/img/e-ymm-logo.jpg)
 
 <!--more-->
+
 ## e ymm mevzuatı
 - Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Genel Tebliği Yayımlanmıştır. [link](https://intvrg.gib.gov.tr/ymmrapor/genel_teblig.pdf)
 - Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Sirkü Yayımlanmıştır. [link](https://intvrg.gib.gov.tr/ymmrapor/eymm_sirku.pdf)
@@ -23,13 +24,13 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 ### duyurular
  - duyuru: 08.07.2020 [Var Olan Rapordan Yeni Rapor Üretmeye ilişkin açıklamalar](https://intvrg.gib.gov.tr/ymmrapor/Rapor_Uretme_Duyurusu.doc)
  - duyuru:24.06.2020 [702/Dahilde İşlem İzin Belgesi Kapsamında düzenlenecek raporlarda dikkat edilmesi gereken hususlar](https://intvrg.gib.gov.tr/ymmrapor/DIIB_Duyuru.doc)
- 
+
 ### e ymm tasdik raporlara ait teknik klavuz
  - v3 02.04.2020 [teknik klavuz / GİB ](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
  - v2 12.12.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
  - v1 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
- 
-### e ymm tam tasdik raporlarına ait teknik klavuz 
+
+### e ymm tam tasdik raporlarına ait teknik klavuz
  - v3 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
  - v2 14.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
  - v1 10.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
@@ -44,7 +45,7 @@ e-YMM KDV İADESİ TASDİK RAPOR UYGULAMALARISorunlar ve Öneriler / YMM BURHAN 
 
 ## Ankara YMMO e-semineri
 
-Ankara YMM Odası e seminer. 
+Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
