@@ -61,17 +61,3 @@ karşılaşılan sorunlar e seminer
 
 - 1. kısım [linki](https://www.youtube.com/watch?v=yPWFWbk6iGw)
 - 2. kısım [linki](https://www.youtube.com/watch?v=-LOQ0BiTM-U&t=1s)
-
-## Diğerleri
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQHdrnhXxoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg1MTM3MTIsLTMyNzI0Mjk4NiwtMT
-cxNDQ5MDM2NCwtNTEyMDY5OTQyLC02NTAxOTgyOTQsLTEyMTYz
-NTcwOTIsMTcxMjU2NTA1NCw0MTc5NDQ1MDksODQzMjU0MTIzLD
-EyMDA4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1
-NTA1Mzg5LDc1NTAyOTkyMCwtNjg2NDY0ODAsNDE1NzAwMTMxXX
-0=
--->
