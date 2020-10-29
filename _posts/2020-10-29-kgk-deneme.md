@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "deneme"
-date:   2020-10-29 12:58:57
-categories: [deneme]
+title:  "22 Ağustos KGK Muhasebe Standartları Soruları"
+date:   2020-05-18 12:58:57
+categories: [KGK]
 comments: true
-tags: [deneme, ilkpost]
+tags: [deneme, Standartlar]
 
 ---
-
+Merhaba hoş geldin bu benim ilk yazım.
 
 # 08/2020
 
