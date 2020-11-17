@@ -78,3 +78,14 @@ Merhaba hoş geldin bu benim ilk yazım.
     C) 16.000 TL tutarında amortisman gideri muhasebeleştirilmeli ve finansal tablolarda 32.000 TL tutarında geriye dönük düzeltme yapılmalıdır.
     D) 20.000 TL tutarında amortisman gideri muhasebeleştirilmeli ve finansal tablolarda geriye dönük düzeltme yapılmamalıdır.
     E) 20.000 TL tutarında amortisman gideri muhasebeleştirilmeli ve finansal tablolarda 32.000 TL tutarında olağan dışı kalem raporlanmalıdır.
+
+    # A collapsible section with markdown
+    <details>
+      <summary>Click to expand!</summary>
+
+      ## Heading
+      1. A numbered
+      2. list
+         * With some
+         * Sub bullets
+    </details>
