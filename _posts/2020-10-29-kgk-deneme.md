@@ -13,5 +13,5 @@ Soruların derslere ve konulara göre ayrılması ile ilgili çalışmalarıma i
 
 ### Muhasebe Standartları
 Muhasebe standartları çıkmış sorular ile ilgili çalışmalara ulaşmak için.
-- [notion] (https://kisaurl.net/q2Hv) üzerinde çalışılabilir sayfalar
-- [pdf gdrive] (https://drive.google.com/file/d/1wnPP0Xk4xb2i6tsn99JOL7qBQQOh2PUr/view?usp=sharing)
+- [notion](https://kisaurl.net/q2Hv) üzerinde çalışılabilir sayfalar
+- [pdf gdrive](https://drive.google.com/file/d/1wnPP0Xk4xb2i6tsn99JOL7qBQQOh2PUr/view?usp=sharing)
