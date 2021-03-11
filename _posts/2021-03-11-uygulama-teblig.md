@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "KDV Uygulama Genel Tebliği Güncel"
-date:   2021-03-11 16:48:00
-categories: [KDViade, Uygulama Genel Tebliği]
+title:  "KDV Uygulama Genel Tebliği"
+date:   2021-03-11 12:58:57
+categories: [KDV iade]
 comments: true
-tags: [KDV, KDViade, KDV Uygulama Genel Tebliği]
+tags: [KDV iade, KDV Uygulama Genel Tebliği]
 
 ---
+KDV Uygulama Genel Tebliği
 - Gib mevzuat güncel yayınlanan tebliğlere ulaşılabilir [3568/Tebliğler](https://www.gib.gov.tr/gibmevzuat)
 
 - [türmob](https://www.turmob.org.tr/mevzuat/pratikBilgiler/60926f7f-ecce-493a-9e4f-e4aef805589f/katma-deger-vergisi-genel-uygulama-tebligi-2019) / 01.01.2020 güncel
