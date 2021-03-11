@@ -9,8 +9,9 @@ tags: [KGK, BDS, Bağımsız Denetçilik Sınavı, Çıkmış Sorular, Muhasebe 
 ---
 KGK Bağımsız denetim sınavı çıkmış sınav sorularına [kurumun kendi sayfasından](https://kgk.gov.tr/DynamicContentDetail/5237/Soru-Ars%CC%A7ivihttps://kgk.gov.tr/DynamicContentDetail/5237/Soru-Ars%CC%A7ivi) ulaşabilirsiniz.
 
-Soruların derslere ve konulara göre ayrılması ile ilgili çalışmalarıma ise aşagıdaki bağlantılardan ulaşın.
+Soruların derslere ve konulara göre ayrılması ile ilgili çalışmalarıma ise aşağıdaki bağlantılardan ulaşın.
 
 ### Muhasebe Standartları
-[24/11/2020 soru notlarım ](https://www.notion.so/eekincicom/24-11-2019-KGK-BDS-Muhasebe-Standatlar-a92971db390b4e149a5c6e3768b2efee)
-[22/18/2020 soru notlarım ](https://www.notion.so/eekincicom/22-08-2020-KGK-BDS-Muhasebe-Standartlar-0395045caeb14a5fbedc7140fb37063f)
+Muhasebe standartları çıkmış sorular ile ilgili çalışmalara ulaşmak için.
+- [notion] (https://kisaurl.net/q2Hv) üzerinde çalışılabilir sayfalar
+- [pdf gdrive] (https://drive.google.com/file/d/1wnPP0Xk4xb2i6tsn99JOL7qBQQOh2PUr/view?usp=sharing)
